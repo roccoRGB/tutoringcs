@@ -18,3 +18,9 @@ print(lest01)
 #replace the first name in your list with "Donald Trump"
 lest01[0] = "Donald Trump"
 print(lest01)
+
+#function that prints variables
+def printVar(x):
+    print(x)
+
+printVar(name00)
