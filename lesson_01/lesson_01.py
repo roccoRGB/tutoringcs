@@ -14,3 +14,7 @@ print(lest00)
 #remove the last name in lest01
 lest01.pop()
 print(lest01)
+
+#replace the first name in your list with "Donald Trump"
+lest01[0] = "Donald Trump"
+print(lest01)
